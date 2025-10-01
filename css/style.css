@@ -34,6 +34,13 @@ body.offcanvas:before {
     color: #fff;
 }
 
+.display-4 {
+    font-size: 2.5rem !important;
+    font-weight: 300;
+    line-height: 1.2;
+    font-family: 'Cormorant Garamond', serif;
+}
+
 h1,
 h2,
 h3,
